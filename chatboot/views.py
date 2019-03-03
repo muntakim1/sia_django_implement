@@ -2,7 +2,7 @@ import aiml
 from django.shortcuts import render, redirect
 
 kernel = aiml.Kernel()
-kernel.learn("botbrains\*.aiml")
+kernel.learn("./botbrains/*.aiml")
 kernel.saveBrain("siabrain.brn")
 
 
