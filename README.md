@@ -20,6 +20,7 @@ pip install django aiml
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
+## Note
+https://www.tutorialspoint.com/aiml/index.htm from this site you can learn to craete or modify (*).aiml files
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
