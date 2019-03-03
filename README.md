@@ -7,7 +7,7 @@ Chatbot of aimal is a Python library for dealing with word pluralization.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install django aiml 
+pip install -r requirements.txt 
 ```
 
 ## Usage
